@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=826)](https://[Makinde.io](https://makinde-david.vercel.app/))
+[![MasterHead](https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=826)](https://[Makinde.io](https://makinde-david.vercel.app))
 <h1 align="center">Hi 👋, I'm Makinde David Craig</h1>
 <h3 align="center">A Seasoned Game Developer with Unity</h3>
 <!--<img align=”right” width=”400”, alt=”Coding” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>-->
